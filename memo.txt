@@ -1,0 +1,2 @@
+以下サイトの広告表示で、必要なファイル
+https://apps.admob.com/v2/apps/appadstxt
